@@ -30,6 +30,9 @@ Progesterone drives a well-documented rise in Resting Heart Rate (RHR) and fall 
 
 Cycles with higher luteal progesterone show larger RHR swings. The three anovulatory cycles cluster at low PdG with moderate amplitude, consistent with the hypothesis that cardiovascular amplitude can serve as a non-invasive proxy for ovulation confirmation.
 
+<p align="center"> <img src="https://github.com/user-attachments/assets/31675ec5-99dc-483e-8cf3-6cb3d6e20900" width="550"><br> <b>Figure 1.</b> RHR amplitude vs luteal PdG across 56 cycles (Spearman r = 0.275, p = 0.040). Anovulatory cycles cluster at low PdG. </p> <p align="center"> <img src="https://github.com/user-attachments/assets/c873ae17-ea83-481a-8781-11d4ca2a49de" width="650"><br> <b>Figure 2.</b> RHR and HRV (RMSSD) by menstrual phase. Luteal RHR peaks while HRV dips — consistent with progesterone-driven cardiovascular changes. </p> <p align="center"> <img src="https://github.com/user-attachments/assets/ad5c0d16-f7f5-4e7b-80cb-4eb6739b10c0" width="600"><br> <b>Figure 3.</b> Example ovulatory cycle — RHR trajectory by phase (top) with daily PdG concentration (bottom). RHR rises alongside progesterone in the luteal phase. </p>
+
+
 ## Dataset
 
 **mcPHASES** (Lin et al., 2025) — *Menstrual Cycle Physiological, Hormonal, and Self-Reported Events and Symptoms*
